@@ -1,8 +1,8 @@
 ### Olá, eu sou a Ingrid Mendonça, Desenvolvedora Junior!
 
 
-- 🔭 No momento trabalho com front end
-- 🌱 Estou aprendendo Bootstrap e aprofundando conhecimento em Javascript
+- 🔭 No momento trabalho com Frontend (HTML5, CSS3, Javascript, Bootstrap), PHP, mysql.
+- 🌱 Estou aprendendo Bootstrap, PHP e aprofundando conhecimento em Javascript
 - 📫 Encontre-me pelo e-mail: ingridmsf19@gmail.com
 - 😄 Pronome: ela/dela
 
