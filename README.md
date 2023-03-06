@@ -1,7 +1,7 @@
 ### Olá, eu sou a Ingrid Mendonça, Desenvolvedora Junior!
 
 
-- 🔭 No momento trabalho no desenvolvimento de Software ERP como Full Stack utilizando HTML5, CSS3, Javascript, Bootstrap, PHP, mysql.
+- 🔭 No momento trabalho no desenvolvimento de Software ERP como Desenvolvedora Júnior utilizando HTML5, CSS3, Javascript, Bootstrap4, PHP, mysql.
 - 🌱 Estou aprendendo Bootstrap, PHP e aprofundando conhecimento em Javascript e React
 - 📫 Encontre-me pelo e-mail: ingridmsf19@gmail.com
 - 😄 Pronome: ela/dela
