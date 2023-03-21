@@ -6,11 +6,7 @@
 - 📫 Encontre-me pelo e-mail: ingridmsf19@gmail.com
 - 😄 Pronome: ela/dela
 
-<div style="display: inline_block">
-  <a href="https://github.com/ingridmsf19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridmsf19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridmsf19&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
