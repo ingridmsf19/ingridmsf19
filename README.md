@@ -2,17 +2,18 @@
 
 
 - 🔭 No momento trabalho no desenvolvimento de Software ERP como Desenvolvedora Júnior utilizando HTML5, CSS3, Javascript, Bootstrap4, PHP, mysql.
-- 🌱 Estou aprendendo Bootstrap, PHP e aprofundando conhecimento em Javascript e React
+- 🌱 Estou aprendendo Bootstrap4, PHP, React e Vue e aprofundando conhecimento em Javascript
 - 📫 Encontre-me pelo e-mail: ingridmsf19@gmail.com
 - 😄 Pronome: ela/dela
 
 
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ingrid-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ingrid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ingrid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ingrid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ingrid-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Ingrid-VUE" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   
   ##
   
