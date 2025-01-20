@@ -1,8 +1,8 @@
-### Olá, eu sou a Ingrid Mendonça, Desenvolvedora Junior!
+### Olá, eu sou a Ingrid Mendonça, Desenvolvedora Frontend Junior!
 
 
-- 🔭 No momento trabalho no desenvolvimento de Software ERP como Desenvolvedora Júnior utilizando HTML5, CSS3, Javascript, Bootstrap4, PHP, mysql.
-- 🌱 Estou aprendendo Bootstrap4, PHP, React e Vue e aprofundando conhecimento em Javascript
+- 🔭 No momento trabalho no desenvolvimento de Software Service desk, Gestão de projetos e Sistemas Web como Desenvolvedora Frontend Júnior utilizando Vue 3, Bootstrap4, PHP, Laravel, mysql.
+- 🌱 Estou aprendendo PHP, React e Vue e aprofundando conhecimento em Javascript
 - 📫 Encontre-me pelo e-mail: ingridmsf19@gmail.com
 - 😄 Pronome: ela/dela
 
